@@ -10,4 +10,8 @@ Watch tutorial on YouTube.
 
 1. Open index.html in your browser.
 2. Have fun!
+<<<<<<< HEAD
 3. Add eggs!!!
+=======
+3. Add eggs!!!!!!!!!!!
+>>>>>>> quick-test
